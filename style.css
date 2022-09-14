@@ -1,7 +1,8 @@
 .jumbotron{
-    background-image: url("ranch\ riding.jpg");
+    background-image: url("wrangler.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     color:white;
+    height: 360px;
 }
